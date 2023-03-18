@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MultiScreenApp</string>
+    <string name="restaurant">Food Lane Restaurant</string>
+    <string name="place_order">Place your Order</string>
+    <string name="item_no_1">Item No 1</string>
+    <string name="item_no_2">Item No 2</string>
+    <string name="item_no_3">Item No 3</string>
+    <string name="order_now_btn">Order Now</string>
+</resources>
